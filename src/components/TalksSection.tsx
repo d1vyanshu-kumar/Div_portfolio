@@ -8,7 +8,7 @@ const content = [
     {
       title: "AI and Technology",
       description:
-      <><strong>Problem: Implementing ethical AI algorithms to mitigate biases in decision-making processes.</strong><br></br><br></br><>Solution: Integrating fairness metrics and interpretability techniques to ensure transparency and accountability in AI systems.</></>,
+        "Problem: Implementing ethical AI algorithms to mitigate biases in decision-making processes. Solution: Integrating fairness metrics and interpretability techniques to ensure transparency and accountability in AI systems.",
       content: (
         <div className="h-full w-full bg-[linear-gradient(to_bottom_right,var(--cyan-500),var(--emerald-500))] flex items-center justify-center text-white">
           AI and Technology
@@ -18,7 +18,7 @@ const content = [
     {
       title: "Frontend Engineering",
       description:
-      <><strong>Problem: Enhancing user experience across different devices and browsers while maintaining performance and accessibility</strong><br></br><br></br><>Solution: Employing responsive design principles, progressive web apps (PWAs), and continuous testing to create seamless user interfaces.</></>,
+        "Problem: Enhancing user experience across different devices and browsers while maintaining performance and accessibility. Solution: Employing responsive design principles, progressive web apps (PWAs), and continuous testing to create seamless user interfaces.",
       content: (
         <div className="h-full w-full  flex items-center justify-center text-white">
           {/* <Image
@@ -34,7 +34,7 @@ const content = [
     {
       title: "Backend Engineering",
       description:
-      <><strong>Problem: Scaling backend infrastructure to handle increasing user loads and data volumes without compromising reliability or speed.</strong><br></br><br></br><>Solution: Utilizing microservices architecture, containerization (e.g., Docker), and cloud-native technologies for efficient resource allocation and scalability</></>,
+        "Problem: Scaling backend infrastructure to handle increasing user loads and data volumes without compromising reliability or speed. Solution: Utilizing microservices architecture, containerization (e.g., Docker), and cloud-native technologies for efficient resource allocation and scalability",
       content: (
         <div className="h-full w-full bg-[linear-gradient(to_bottom_right,var(--orange-500),var(--yellow-500))] flex items-center justify-center text-white">
           Backend Engineering
@@ -44,7 +44,7 @@ const content = [
     {
       title: "Quantum Engineering",
       description:
-      <><strong>Problem: Developing practical applications for quantum computing that leverage its unique capabilities while overcoming hardware limitations and noise.</strong><br></br><br></br><>Solution: Exploring quantum algorithms for optimization, cryptography, and simulation, and collaborating with interdisciplinary teams to tackle challenges in quantum error correction and fault tolerance</></>,
+        "Problem: Developing practical applications for quantum computing that leverage its unique capabilities while overcoming hardware limitations and noise. Solution: Exploring quantum algorithms for optimization, cryptography, and simulation, and collaborating with interdisciplinary teams to tackle challenges in quantum error correction and fault tolerance",
       content: (
         <div className="h-full w-full bg-[linear-gradient(to_bottom_right,var(--cyan-500),var(--emerald-500))] flex items-center justify-center text-white">
           Quantum Engineering
@@ -62,4 +62,4 @@ function TalksSection() {
   )
 }
 
-export default TalksSection
+export default TalksSection;
