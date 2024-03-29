@@ -57,8 +57,8 @@ function Uses() {
           
             <h2 className="text-base text-teal-600 font-semibold tracking-wide uppercase">
               I often get messages asking about specific pieces of software or
-              hardware I use. This not a static page, it's a living document
-              with everything that I'm using nowadays.
+              hardware I use. This not a static page, it is a living document
+              with everything that I am using nowadays.
             </h2>
             <p className="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-white sm:text-4xl">
               {" "}

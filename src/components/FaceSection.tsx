@@ -19,13 +19,13 @@ function FaceSection() {
           Hi There!!!
         </h1>
         <p className="text-lg font-semibold leading-relaxed">
-  Welcome! I'm <span className="font-serif">Divyanshu Kumar</span>, hailing from the vibrant city of <span className="font-serif">Madhubani</span> in <span className="font-serif">Bihar</span>. In <span className="font-serif">2023</span>, I embarked on my academic journey, marking the commencement of my first year at the esteemed <span className="font-serif">Function Up School of Technology</span>, specializing in <span className="font-serif">Computer Science and Engineering (CSE)</span>.
+  Welcome! I am <span className="font-serif">Divyanshu Kumar</span>, hailing from the vibrant city of <span className="font-serif">Madhubani</span> in <span className="font-serif">Bihar</span>. In <span className="font-serif">2023</span>, I embarked on my academic journey, marking the commencement of my first year at the esteemed <span className="font-serif">Function Up School of Technology</span>, specializing in <span className="font-serif">Computer Science and Engineering (CSE)</span>.
 </p>
 <p className="mt-4 leading-relaxed">
   My fascination with the intricate world of machines and computers dates back to my early childhood. The enchanting notion of how software orchestrates the dance of hardware has always captivated me. After successfully completing my <span className="font-serif">12th-grade education</span>, I decided to pursue my passion by selecting <span className="font-serif">Computer Science and Engineering</span> as my field of study.
 </p>
 <p className="mt-4 leading-relaxed">
-  Beyond my love for technology, I am also a fervent music enthusiast. I aspire to harness the power of AI to craft unique beats and melodies, pushing the boundaries of musical creation. It's the perfect blend of art and technology that ignites my creativity.
+  Beyond my love for technology, I am also a fervent music enthusiast. I aspire to harness the power of AI to craft unique beats and melodies, pushing the boundaries of musical creation. Its the perfect blend of art and technology that ignites my creativity.
 </p>
 
         <div className="mt-9 ml-40">
