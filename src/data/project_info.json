@@ -1,0 +1,60 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Github Account Finder",
+        "slug": "https://github.com/d1vyanshu-kumar/GithubAccountFinder",
+        "description": "Using Html css and javascript and with the help of githubApi i made this project",
+        "isFeatured": true,
+        "image": "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Z2l0aHVifGVufDB8fDB8fHww" 
+      },
+      {
+        "id": 2,
+        "title": "Book Library",
+        "slug": "https://github.com/d1vyanshu-kumar/book-library",
+        "description": "Using react and javascript made this one which takes input book information like name and creater etc and provide the book",
+        "isFeatured": true,
+        "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGJvb2slMjBsaWJyYXJpeXxlbnwwfHwwfHx8MA%3D%3D" 
+      },
+      {
+        "id": 3,
+        "title": "Portfolio -Vue.JS",
+        "slug": "https://github.com/d1vyanshu-kumar/Portfolio",
+        "description": "Using VueJs i made this one project and javascript and html and css",
+        "isFeatured": true,
+        "image": "/vue.png" 
+      },
+      {
+        "id": 4,
+        "title": "Portfolio-NextJS",
+        "slug": "drumming-mastery",
+        "description": "This is the 2nd portfolio in which i use NextJs and tailwind css throughout my Gsoc prep.",
+        "isFeatured": true,
+        "image": "https://images.unsplash.com/photo-1487088678257-3a541e6e3922?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fHBvcnRmb2xpb3xlbnwwfHwwfHx8MA%3D%3D"
+      },
+      {
+        "id": 5,
+        "title": "Open-Source contribution",
+        "slug": "https://github.com/d1vyanshu-kumar",
+        "description": "Contributed in many opensource Org like openWISP,sugarizer,OSL(openSCience Lab)",
+        "isFeatured": true,
+        "image": "https://i.pinimg.com/474x/b1/be/d4/b1bed4a0c26cb5c361e7a01c6f98c5ee.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Music Production project",
+        "slug": "music-production-fundamentals",
+        "description": "Create a music through fl studio and post it on a Youtube since when i am in 11th Standerd",
+        "isFeatured": true,
+        "image": "https://i.pinimg.com/474x/3d/01/8d/3d018d96c983d9e7b5c21cc7e145f5ae.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Fun project",
+        "slug": "songwriting-essentials",
+        "description": "Celebrating Holi in the hostel is an enchanting experience, filled with boundless joy and unforgettable moments.",
+        "isFeatured": false,
+        "image": "/fun.png"
+      }
+    ]
+  }
