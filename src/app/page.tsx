@@ -4,7 +4,7 @@ import Footer from "@/components/Footer";
 import ProjectSection from "@/components/ProjectSection";
 import TalksSection from "@/components/TalksSection";
 import Uses from "@/components/Uses";
-import Contact from "@/components/contact";
+import Contact from "@/components/Temp";
 
 export default function Home() {
   return (
