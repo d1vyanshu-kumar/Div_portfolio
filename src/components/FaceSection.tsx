@@ -29,7 +29,7 @@ function FaceSection() {
 </p>
 
         <div className="mt-9 ml-40">
-          <Link href="https://drive.google.com/file/d/1uC-qoLdWcG65N7PgVvdRSqIJuup-j0NM/view?usp=sharing">
+          <Link href="https://drive.google.com/file/d/1ikD7D1jLc-5qKk6vRBvueZ1VypdCsc9I/view?usp=sharing"> 
             <Button
             borderRadius="1.75rem"
             className="bg-white dark:bg-black text-black dark:text-white border-neutral-200 dark:border-slate-800"
